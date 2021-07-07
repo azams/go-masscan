@@ -3,7 +3,6 @@ package masscan
 import (
 	"bytes"
 	"encoding/xml"
-	"fmt"
 	"io"
 	"os/exec"
 	"github.com/pkg/errors"
